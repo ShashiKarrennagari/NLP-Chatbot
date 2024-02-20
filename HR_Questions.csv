@@ -1,0 +1,331 @@
+Question,Intent
+Where can I find Employee handbook,emp_handbook
+Where can I find HC policies,emp_handbook
+Where can I find HR policies,emp_handbook
+people wikibook,emp_handbook
+what is the workplace guidelines,emp_handbook
+show me employee manual,emp_handbook
+company policy manual,emp_handbook
+staff handbook,emp_handbook
+HC guidelines,emp_handbook
+workplace guidelines,emp_handbook
+HR principles,emp_handbook
+How many annual leave i can take,emp_leave
+how many leaves i have,emp_leave
+Holiday policy,emp_leave
+Leave policy,emp_leave
+Sabbatical leave,emp_leave
+delete leave,emp_leave
+holidays list,emp_leave
+cancel leave,emp_leave
+Leave without pay,emp_leave
+Bank holidays,emp_leave
+how to apply for sabbatical,emp_leave
+what is the eligibility of sabbatical,emp_leave
+how many sabbatical i can take,emp_leave
+sabbatical leave no of days,emp_leave
+number of days in sabbatical,emp_leave
+number of leaves in sabbatical,emp_leave
+how many months sabbatical leave can i take,emp_leave
+duration of sabbatical,emp_leave
+Reasons for Sabbatical,emp_leave
+MATERNITY LEAVE GUIDELINES,emp_leave
+MATERNITY LEAVE duration,emp_leave
+how to apply for maternity leave,emp_leave
+long leave duration,emp_leave
+leave guidelines,emp_leave
+leave policies,emp_leave
+annual leave ,emp_leave
+Leave without pay,emp_leave
+annual holidays,emp_leave
+how to take long leave,emp_leave
+How to book holidays on Converge,emp_converge
+how to apply leave on converge,emp_converge
+how to change my leave,emp_converge
+how to update leave on converge,emp_converge
+booking holidays on Converge,emp_converge
+Converge guidelines,emp_converge
+Goals on Converge,emp_converge
+How to appreciate on Converge,emp_converge
+My department is not updated,emp_converge
+My reporting manager is not updated,emp_converge
+How do I update my department,emp_converge
+How do I update my reporting manager,emp_converge
+How do I update my information on Converge,emp_converge
+How can I review my goals on Converge,emp_converge
+How can I update my goals on Converge,emp_converge
+Self review on Converge,emp_converge
+how to use converge,emp_converge
+manage goals on converge,emp_converge
+booking time off on converge,emp_converge
+change department on converge,emp_converge
+change manager on converge,emp_converge
+change reporting manager on converge,emp_converge
+how to add goals on converge,emp_converge
+how to edit goals on converge,emp_converge
+Where do I find my Goals?,emp_converge
+how to delete goal,emp_converge
+Exit procedures,emp_resign
+How to request resignation,emp_resign
+Resignation process,emp_resign
+What is my notice period,emp_resign
+What are Exit guidelines,emp_resign
+Where do I find clearance form,emp_resign
+How do I request resignation,emp_resign
+How do I raise resignation on Converge,emp_resign
+how to quit,emp_resign
+how to apply for resignation in converge,emp_resign
+how to resign in converge,emp_resign
+what is the notice period,emp_resign
+when i get relieving letter,emp_resign
+what are exit formalities,emp_resign
+what are exit procedures,emp_resign
+resignation policies and procedure,emp_resign
+employee resignation rules and regulations,emp_resign
+resign without notice period,emp_resign
+employee quit without notice period,emp_resign
+how long is my notice period,emp_resign
+employee resignation policy,emp_resign
+resignation rules,emp_resign
+employee quitting formalities,emp_resign
+where can i find resignation form,emp_resign
+Where can I find my payslip,emp_payslip
+How do I declare investment proofs,emp_payslip
+Where can I find my pay details,emp_payslip
+Where can I find tax details,emp_payslip
+Where can I find pf details,emp_payslip
+tax query,emp_payslip
+pf query,emp_payslip
+provident fund query,emp_payslip
+Investment declaration,emp_payslip
+where can i get copies of my payslips,emp_payslip
+how to download payslip,emp_payslip
+where can i see my payslip,emp_payslip
+how to access my payslip,emp_payslip
+get my payslip,emp_payslip
+when should i receive my payslip,emp_payslip
+what are payroll process,emp_payslip
+when i get my salary slip,emp_payslip
+mail my salary slip,emp_payslip
+show my salary structure,emp_payslip
+submission of investment proof,emp_payslip
+submit proof for investment,emp_payslip
+where can i get investment declartion guide,emp_payslip
+where is my tax return,emp_payslip
+when i will get my tax returns,emp_payslip
+how to file returns,emp_payslip
+how do i collect my tax return,emp_payslip
+get my salary details,emp_payslip
+where to find pf details,emp_payslip
+what is my provident fund,emp_payslip
+how to withdraw from provident fund,emp_payslip
+what is my pf balance,emp_payslip
+how to check my pf balance,emp_payslip
+provident fund balance,emp_payslip
+how to get my salary statement,emp_payslip
+send my salary statement,emp_payslip
+tax  related queries,emp_payslip
+tax related questions,emp_payslip
+pf questions,emp_payslip
+pf related queries,emp_payslip
+income tax queries,emp_payslip
+tax declaration form,emp_payslip
+tax return form,emp_payslip
+how to submit returns form,emp_payslip
+provident fund questions,emp_payslip
+pf related questions and solutions,emp_payslip
+Employee Referral Program,emp_referral
+How do I refer a friend,emp_referral
+referral program,emp_referral
+employee referral policies,emp_referral
+what is the eligibility of referral,emp_referral
+referral program guidelines,emp_referral
+benefits of employee reference,emp_referral
+advantages of employee referral,emp_referral
+how much is referral bonus ,emp_referral
+referral guidlines,emp_referral
+what is ripplehire,emp_referral
+how to redeem reward points,emp_referral
+how to track my referral status,emp_referral
+how to refer ex-employee,emp_referral
+How to send my referral's resumes,emp_referral
+referral bonus tax,emp_referral
+how much is referral incentive,emp_referral
+referral rewards,emp_referral
+referral bonus payout related queries,emp_referral
+Insurance policy,emp_insurance
+Insurance details,emp_insurance
+company insurance,emp_insurance
+Where can I find insurance information,emp_insurance
+Insurance re-imbursement,emp_insurance
+what are the health benefits,emp_insurance
+how to reimburse for insurance,emp_insurance
+what are the health care policies,emp_insurance
+what are the benefits of employee insurance,emp_insurance
+what are health care coverage for my dependents,emp_insurance
+When is my coverage effective,emp_insurance
+How may I use my health insurance plan,emp_insurance
+what is health insurance deduction,emp_insurance
+What happens to my medical coverage if my employment ends,emp_insurance
+Health Insurance plans,emp_insurance
+what is Health Insurance premium,emp_insurance
+What does a Health Insurance policy not cover,emp_insurance
+What is pre-existing condition in health insurance policy,emp_insurance
+what are the coverage policies,emp_insurance
+What is the maximum number of claims allowed over a year,emp_insurance
+Goal setting,emp_goals
+Goal review,emp_goals
+Goal setting and review,emp_goals
+Internal job posting,ijp
+IJP,ijp
+Internal hiring,ijp
+IJP policies,ijp
+internal hiring guidelines,ijp
+ijp process,ijp
+Current openings at company,current_jobs
+Current vacancy,current_jobs
+where can I find current openings at company,current_jobs
+job vacancy at company,current_jobs
+what are the current job openings,current_jobs
+careers at company,current_jobs
+current oppurtunities at company,current_jobs
+what are the job oppurtunities in company,current_jobs
+is there any opening for xxxxxxx,current_jobs
+what are my goals this year,emp_goals
+what are employee benefits,emp_insurance
+employee benefits,emp_insurance
+employee benefits,emp_insurance
+what are my goals this year,emp_goals
+setting goals,emp_goals
+i want to know my goals for this year,emp_goals
+what are leave guidelines,emp_leave
+what are leave policies,emp_leave
+what are hiring guidelines,ijp
+what are recruitment process,ijp
+what are recruitment guidelines,ijp
+where can i update my leave,emp_converge
+booking time off,emp_converge
+how to request for time off,emp_converge
+what are employee guidelines,emp_handbook
+what are employee guidelines,emp_handbook
+HC Query,hc_helpdesk
+HR Query,hc_helpdesk
+contact HC,hc_helpdesk
+HC helpdesk email id,hc_helpdesk
+how to mail hc,hc_helpdesk
+HR Query,hc_helpdesk
+contact HC,hc_helpdesk
+HC helpdesk email id,hc_helpdesk
+how to apply leave,emp_converge
+how to apply for holiday,emp_converge
+how to apply leave,emp_converge
+how to apply for holiday,emp_converge
+how to apply leave,emp_converge
+how to apply for holiday,emp_converge
+how to apply leave,emp_converge
+how to apply for holiday,emp_converge
+how to apply leave,emp_converge
+how to apply for holiday,emp_converge
+how to apply leave,emp_converge
+how to apply for holiday,emp_converge
+my goals,emp_goals
+do you know my goals,emp_goals
+Goal setting,emp_goals
+ijp,ijp
+ijp,ijp
+internal jobs,ijp
+ijp,ijp
+ijp,ijp
+internal jobs,ijp
+internal jobs,ijp
+what are current ijp openings,ijp
+give me ijp details,ijp
+what are my goals,emp_goals
+what are my golas this year,emp_goals
+Is there any IJP for data scientists?,ijp
+What are the IJP right now,ijp
+What are current IJPs,ijp
+What are current openings?,current_jobs
+I want to resign,emp_resign
+What are the goals for Apex+,emp_goals
+Can I take a leave,emp_leave
+Log me in to excelity,emp_payslip
+I want to refer my friend for xxxxxx position,emp_referral
+What are converge guidelines?,emp_converge
+Please book my leave,emp_converge
+What is my department?,emp_converge
+I want to change my reporting manager,emp_converge
+What are the terms of our medical insurance?,emp_insurance
+conditions for maternity,emp_leave
+duration of maternity,emp_leave
+eligibility of maternity,emp_leave
+conditions for sabbatical,emp_leave
+duration of sabbatical,emp_leave
+eligibility of sabbatical,emp_leave
+conditions for maternity,emp_leave
+duration of maternity,emp_leave
+eligibility of maternity,emp_leave
+conditions for sabbatical,emp_leave
+duration of sabbatical,emp_leave
+eligibility of sabbatical,emp_leave
+apply for maternity,emp_leave
+apply for sabbatical,emp_leave
+sabbatical,emp_leave
+"i+1, employee referral program ",emp_referral
+appreciating your colleague on converge!,emp_converge
+manage goals on converge!,emp_converge
+process,emp_referral
+tracking leave,emp_leave
+leave guidelines,emp_leave
+referral guidelines,emp_referral
+maternity leave guidelines,emp_leave
+notice period,emp_resign
+apply time off holiday leave on converge!,emp_converge
+apply holiday,emp_converge
+apply leave,emp_converge
+exit  process,emp_resign
+ex employee rehire guidelines,ijp
+eligibility  ,emp_referral
+reward,emp_referral
+resignation,emp_resign
+internal job rotation guidelines,ijp
+requesting department / reporting manager change on converge,emp_converge
+sabbatical,emp_leave
+"i+1, employee referral program ",emp_referral
+appreciating your colleague on converge!,emp_converge
+manage goals on converge!,emp_converge
+process,emp_referral
+tracking leave,emp_leave
+leave guidelines,emp_leave
+referral guidelines,emp_referral
+maternity leave guidelines,emp_leave
+notice period,emp_resign
+apply time off / holiday / leave on converge!,emp_converge
+exit  process (india),emp_resign
+ex employee rehire guidelines,ijp
+eligibility  ,emp_referral
+reward,emp_referral
+resignation,emp_resign
+internal job rotation guidelines,ijp
+requesting department / reporting manager change on converge,emp_converge
+apply leave ,emp_converge
+apply holiday,emp_converge
+apply for vacation,emp_converge
+book leave,emp_converge
+how to apply for leave,emp_converge
+help me in applying leave,emp_converge
+help me in applying resignation,emp_resign
+help me in applying resignation,emp_resign
+help me in applying resignation,emp_resign
+help me in referring my friend,emp_referral
+help me in referring my friend,emp_referral
+maternity policy for US,emp_leave
+maternity guidelines of India,emp_leave
+maternity policy of UK,emp_leave
+resignation procedure of UK,emp_resign
+exit process,emp_resign
+exit process US,emp_resign
+exit process UK,emp_resign
+referral policy in US,emp_referral
+employee handbook,emp_handbook
+download employee handbook,emp_handbook

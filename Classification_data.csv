@@ -1,0 +1,222 @@
+Question,Intent
+How many annual leave i can take,emp_leave
+how many leaves i have,emp_leave
+Holiday policy,emp_leave
+Leave policy,emp_leave
+Sabbatical leave,emp_leave
+delete leave,emp_leave
+holidays list,emp_leave
+cancel leave,emp_leave
+Leave without pay,emp_leave
+Bank holidays,emp_leave
+how to apply for sabbatical,emp_leave
+what is the eligibility of sabbatical,emp_leave
+how many sabbatical i can take,emp_leave
+sabbatical leave no of days,emp_leave
+number of days in sabbatical,emp_leave
+number of leaves in sabbatical,emp_leave
+how many months sabbatical leave can i take,emp_leave
+duration of sabbatical,emp_leave
+Reasons for Sabbatical,emp_leave
+MATERNITY LEAVE GUIDELINES,emp_leave
+MATERNITY LEAVE duration,emp_leave
+how to apply for maternity leave,emp_leave
+long leave duration,emp_leave
+leave guidelines,emp_leave
+leave policies,emp_leave
+"annual leave ",emp_leave
+Leave without pay,emp_leave
+annual holidays,emp_leave
+how to take long leave,emp_leave
+How to book holidays on Converge,emp_converge
+how to apply leave on converge,emp_converge
+how to change my leave,emp_converge
+how to update leave on converge,emp_converge
+booking holidays on Converge,emp_converge
+Converge guidelines,emp_converge
+Goals on Converge,emp_converge
+How to appreciate on Converge,emp_converge
+My department is not updated,emp_converge
+My reporting manager is not updated,emp_converge
+How do I update my department,emp_converge
+How do I update my reporting manager,emp_converge
+How do I update my information on Converge,emp_converge
+How can I review my goals on Converge,emp_converge
+How can I update my goals on Converge,emp_converge
+Self review on Converge,emp_converge
+how to use converge,emp_converge
+manage goals on converge,emp_converge
+booking time off on converge,emp_converge
+change department on converge,emp_converge
+change manager on converge,emp_converge
+change reporting manager on converge,emp_converge
+how to add goals on converge,emp_converge
+how to edit goals on converge,emp_converge
+Where do I find my Goals?,emp_converge
+how to delete goal,emp_converge
+Exit procedures,emp_resign
+How to request resignation,emp_resign
+Resignation process,emp_resign
+What is my notice period,emp_resign
+What are Exit guidelines,emp_resign
+Where do I find clearance form,emp_resign
+How do I request resignation,emp_resign
+How do I raise resignation on Converge,emp_resign
+how to quit,emp_resign
+how to apply for resignation in converge,emp_resign
+how to resign in converge,emp_resign
+what is the notice period,emp_resign
+when i get relieving letter,emp_resign
+what are exit formalities,emp_resign
+what are exit procedures,emp_resign
+resignation policies and procedure,emp_resign
+employee resignation rules and regulations,emp_resign
+resign without notice period,emp_resign
+employee quit without notice period,emp_resign
+how long is my notice period,emp_resign
+employee resignation policy,emp_resign
+resignation rules,emp_resign
+employee quitting formalities,emp_resign
+where can i find resignation form,emp_resign
+Employee Referral Program,emp_referral
+How do I refer a friend,emp_referral
+referral program,emp_referral
+employee referral policies,emp_referral
+what is the eligibility of referral,emp_referral
+referral program guidelines,emp_referral
+benefits of employee reference,emp_referral
+advantages of employee referral,emp_referral
+"how much is referral bonus ",emp_referral
+referral guidlines,emp_referral
+what is ripplehire,emp_referral
+how to redeem reward points,emp_referral
+how to track my referral status,emp_referral
+how to refer ex-employee,emp_referral
+How to send my referral's resumes,emp_referral
+referral bonus tax,emp_referral
+how much is referral incentive,emp_referral
+referral rewards,emp_referral
+referral bonus payout related queries,emp_referral
+Goal setting,emp_converge
+Goal review,emp_converge
+Goal setting and review,emp_converge
+Internal job posting,ijp
+IJP,ijp
+Internal hiring,ijp
+IJP policies,ijp
+internal hiring guidelines,ijp
+ijp process,ijp
+Current openings at Fractal,ijp
+Current vacancy,ijp
+where can I find current openings at Fractal,ijp
+job vacancy at Fractal,ijp
+what are the current job openings,ijp
+careers at fractal,ijp
+current oppurtunities at fractal,ijp
+what are the job oppurtunities in fractal,ijp
+is there any opening for xxxxxxx,ijp
+what are my goals this year,emp_converge
+what are employee benefits,emp_insurance
+employee benefits,emp_insurance
+employee benefits,emp_insurance
+what are my goals this year,emp_converge
+setting goals,emp_converge
+i want to know my goals for this year,emp_converge
+what are leave guidelines,emp_leave
+what are leave policies,emp_leave
+what are hiring guidelines,ijp
+what are recruitment process,ijp
+what are recruitment guidelines,ijp
+where can i update my leave,emp_converge
+booking time off,emp_converge
+how to request for time off,emp_converge
+what are employee guidelines,emp_handbook
+what are employee guidelines,emp_handbook
+how to apply leave,emp_converge
+how to apply for holiday,emp_converge
+how to apply leave,emp_converge
+how to apply for holiday,emp_converge
+how to apply leave,emp_converge
+how to apply for holiday,emp_converge
+how to apply leave,emp_converge
+how to apply for holiday,emp_converge
+how to apply leave,emp_converge
+how to apply for holiday,emp_converge
+how to apply leave,emp_converge
+how to apply for holiday,emp_converge
+my goals,emp_converge
+do you know my goals,emp_converge
+Goal setting,emp_converge
+ijp,ijp
+ijp,ijp
+internal jobs,ijp
+ijp,ijp
+ijp,ijp
+internal jobs,ijp
+internal jobs,ijp
+what are current ijp openings,ijp
+give me ijp details,ijp
+what are my goals,emp_converge
+what are my golas this year,emp_converge
+Is there any IJP for data scientists?,ijp
+What are the IJP right now,ijp
+What are current IJPs,ijp
+What are current openings?,ijp
+I want to resign,emp_resign
+What are the goals for Apex+,emp_converge
+Can I take a leave,emp_leave
+Log me in to excelity,emp_payslip
+What are converge guidelines?,emp_converge
+Please book my leave,emp_converge
+What is my department?,emp_converge
+I want to change my reporting manager,emp_converge
+conditions for maternity,emp_leave
+duration of maternity,emp_leave
+eligibility of maternity,emp_leave
+conditions for sabbatical,emp_leave
+duration of sabbatical,emp_leave
+eligibility of sabbatical,emp_leave
+conditions for maternity,emp_leave
+duration of maternity,emp_leave
+eligibility of maternity,emp_leave
+conditions for sabbatical,emp_leave
+duration of sabbatical,emp_leave
+eligibility of sabbatical,emp_leave
+apply for maternity,emp_leave
+apply for sabbatical,emp_leave
+sabbatical,emp_leave
+"i+1, employee referral program ",emp_referral
+appreciating your colleague on converge!,emp_converge
+manage goals on converge!,emp_converge
+process,emp_referral
+tracking leave,emp_leave
+leave guidelines,emp_leave
+referral guidelines,emp_referral
+maternity leave guidelines,emp_leave
+notice period,emp_resign
+apply time off / holiday / leave on converge!,emp_converge
+exit  process (india),emp_resign
+ex employee rehire guidelines,ijp
+"eligibility  ",emp_referral
+reward,emp_referral
+resignation,emp_resign
+internal job rotation guidelines,ijp
+requesting department / reporting manager change on converge,emp_converge
+sabbatical,emp_leave
+"i+1, employee referral program ",emp_referral
+appreciating your colleague on converge!,emp_converge
+manage goals on converge!,emp_converge
+process,emp_referral
+tracking leave,emp_leave
+leave guidelines,emp_leave
+referral guidelines,emp_referral
+maternity leave guidelines,emp_leave
+notice period,emp_resign
+apply time off / holiday / leave on converge!,emp_converge
+exit  process (india),emp_resign
+ex employee rehire guidelines,ijp
+"eligibility  ",emp_referral
+reward,emp_referral
+resignation,emp_resign
+internal job rotation guidelines,ijp
+requesting department / reporting manager change on converge,emp_converge
